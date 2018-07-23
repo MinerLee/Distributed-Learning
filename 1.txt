@@ -1,3 +1,6 @@
 dasdasd
 add dev branch
+<<<<<<< HEAD
 12312
+=======
+>>>>>>> dev
